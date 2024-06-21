@@ -1,4 +1,4 @@
-![logo](https://github.com/SVK-DEVS/SVK-DEVS/blob/9f8656f7dbbab9c54930c19296733a34d515dd75/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
+![logo](https://github.com/SVK-DEVS/SVK-DEVS/blob/11cc5cb90d3aa896c3c6283717998ac36fbc70c4/dd.png)
 <h1 align="center">Hi 👋, I'm Shobhit Vishwakarma</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 <img align="right" alt="coding"height="250" wdth="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
